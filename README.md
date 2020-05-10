@@ -1,4 +1,4 @@
-# Java_2020
+# Java-2020
 ## General Information
 The goal of this project is to document the learning process for Java, from the perspective of a beginner. 
 
