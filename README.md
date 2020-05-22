@@ -1,4 +1,4 @@
-# Java-2020
+# Java-Journey
 ## General Information
 The goal of this project is to document the learning process for the programming language Java. 
 
